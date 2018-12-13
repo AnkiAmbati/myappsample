@@ -6,5 +6,7 @@ new hello
 beans
 chicken
 
+pizza
+
 
 Thank you :)
